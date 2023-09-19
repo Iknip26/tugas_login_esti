@@ -1,0 +1,4 @@
+<resources>
+    <string name="welcome">Hello Everyone! Please Sign In</string>
+    <string name="forget">Forgot password?</string>
+</resources>
